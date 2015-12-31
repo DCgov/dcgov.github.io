@@ -2,7 +2,7 @@
 
 Information about open government efforts in DC.
 
-We're currently updating the content that appears on this page. Share thoughts and join the discussion on the [issues page](issues).
+We're currently updating the content that appears on this page. Share thoughts and join the discussion on the [issues page](https://github.com/DCgov/dcgov.github.io/issues).
 
 ## Public Domain
 
