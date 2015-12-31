@@ -490,7 +490,8 @@ Desktop Styles
         display: block;
         max-height: 5em;
         margin-top: -1.5em;
-        float: right;
+        float: left;
+        margin-right: 1em;
     }
 
     aside {
