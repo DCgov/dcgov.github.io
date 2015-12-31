@@ -213,6 +213,28 @@ Navigation
 ==================================
 */
 
+header .wrap { position: relative; }
+
+a.back-link {
+    display: block;
+    background: {{ site.brand_color }};
+    color: #fff;
+    position: absolute;
+    right: 0;
+    top: 100%;
+    text-decoration: none;
+    border: none;
+    margin-top: 35px;
+    padding: 3px 20px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 0.875em;
+}
+
+a.back-link:hover, a.back-link:focus {
+    text-decoration: underline;
+}
+
 .sidebar-nav a {
   display: block;
   padding: 10px;
@@ -274,7 +296,8 @@ section:before {
 }
 
 .wrap {
-    max-width: 1200px;
+    max-width: 800px;
+    max-width: 50rem;
     margin: 0 auto;
     padding-left: 20px;
     padding-right: 20px;
@@ -476,8 +499,6 @@ Desktop Styles
     }
 
     .main-content {
-        width: 67%;
-        float: right;
         margin-bottom: 120px;
     }
 

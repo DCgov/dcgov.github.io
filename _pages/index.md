@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /
-title: About Open Government
+title: About Open Government in DC
 ---
 
 The District is a strong advocate for open government and provides a large quantity of government information available to the public. If the information you are looking for is not already available on DC.Gov, you may [submit a FOIA request](http://dc.gov/node/720382).
@@ -14,7 +14,7 @@ The District is a strong advocate for open government and provides a large quant
 
 ## Open Data and Other Open Government Information
 
-* [Open Government and Open Data Directive](http://dc.gov/node/871012) - provides a comprehensive plan for the District government to enhance transparency, accountability and collaboration * with District residents and the public
+* [Open Government and Open Data Directive](http://dc.gov/node/871012) - provides a comprehensive plan for the District government to enhance transparency, accountability and collaboration with District residents and the public
 * [Open Data](http://dc.gov/node/158852) - provides hundreds of data feeds on District government information
 * [DC Regulations and DC Register](http://dc.gov/node/148382) - provides access to District regulations, the District Register and Mayoral Orders
 * [Contracts and Procurement](http://contracts.dc.gov/) - provides contracting information from a variety of agency sources
