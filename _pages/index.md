@@ -6,6 +6,14 @@ title: About Open Government in DC
 
 The District is a strong advocate for open government and provides a large quantity of government information available to the public. If the information you are looking for is not already available on DC.Gov, you may [submit a FOIA request](http://dc.gov/node/720382).
 
+## Draft Open Data Policy
+
+The District has released a [draft open data policy](https://drafts.dc.gov/docs/draft-open-data-policy) that is open for comment until February 15, 2015. Find the policy and comment on it at [drafts.dc.gov](https://drafts.dc.gov/docs/draft-open-data-policy). Comments are also accepted by:
+
+* Sending an email to [open@dc.gov](mailto:open@dc.gov)
+* Tweeting questions and ideas to [@octodc](https://twitter.com/OCTODC) on Twitter using the hashtag #opendatadc
+* Mailing comments c/o Open Data Policy, 200 I Street SE, Suite 500, Washington, DC 20003
+
 ## Government Performance
 
 * [Track DC](http://track.dc.gov/) - provides performance information on all District agencies
