@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div id="dashboard_intro">
+	{{ content }}
+</div>
+
+<div>
+    {% assign projects_sorted = site.data.projects | sort:"name" %}
+    {% for item in projects_sorted %}
+	    <div class="project">
+	    	<div class="project_header">
+	        	<div class="left project_title">
+	        		{{ item.name | downcase}}
+	        	</div>
+	        	<div class="right">
+		        	<span class="status {{ item.status | downcase}}">{{item.status|downcase}}</span>
+	        	</div>
+	        </div>
+	        <div class="left">
+	            <p>{{ item.description }}</p>
+		        {% if item.partners %}
+			        <p>
+			            <strong>Partners</strong>
+			            {% for partner in item.partners %}
+			            <span>
+			            	{{ partner.name }}
+			            	{% if forloop.index < forloop.length %} • {%endif%}
+			            </span>
+			            {%endfor%}
+			        </p>
+		        {% endif %}
+<!-- 		        <p>
+		        	<i class="fa fa-info-circle"></i>
+		        	<a href="">more information</a>
+		        </p>-->            
+ 			</div>
+	        <div class="right">
+	            {% if item.homepage %}<p><i class="fa fa-home"></i> <a href=
+	            "{{%item.homepage%}}">homepage</a></p>{%endif%}
+ 	            {% if item.homepage %}<p><i class="fa fa-code"></i> <a href=
+	            "{{%item.repository%}}">code</a></p>{%endif%}
+	        </div>
+	    </div>
+    {% endfor %}
+</div>

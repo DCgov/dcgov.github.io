@@ -1,70 +1,33 @@
 ---
 layout: page
 permalink: /
-title: About Open Government in DC
+title: Open Government in DC
 ---
 
-The District is a strong advocate for open government and provides a large quantity of government information available to the public. If the information you are looking for is not already available on DC.Gov, you may [submit a FOIA request](http://dc.gov/node/720382).
+The District is a strong advocate for open government and provides a large quantity of government information available to the public. 
 
-## Draft Open Data Policy
+On this site you can learn more about DC's Open Government policies and open source projects, how to find government data and information, and who to contact for more.
 
-The District has released a [draft open data policy](https://drafts.dc.gov/docs/draft-open-data-policy) that is open for comment until February 15, 2015. Find the policy and comment on it at [drafts.dc.gov](https://drafts.dc.gov/docs/draft-open-data-policy). Comments are also accepted by:
+***
 
-* Sending an email to [open@dc.gov](mailto:open@dc.gov)
-* Tweeting questions and ideas to [@octodc](https://twitter.com/OCTODC) on Twitter using the hashtag #opendatadc
-* Mailing comments c/o Open Data Policy, 200 I Street SE, Suite 500, Washington, DC 20003
+# [Policy >>](./policy)
 
-## Government Performance
+Building off of the 2014 Open Government and Open Data Directive, DC Government is working on a new [Open Data Policy]().
 
-* [Track DC](http://track.dc.gov/) - provides performance information on all District agencies
-* [Grade DC](http://grade.dc.gov/) - reports on resident grading of 15 District agencies and enables residents to provide input for the next monthly grades
-* [Green Dashboard](http://greendashboard.dc.gov/) - provides data on the District's sustainability performance
+Members of the public can comment on it and propose edits through [drafts.dc.gov](), by email, Twitter, and mail until **February 15, 2015**. Learn more by visiting the [Policy page](./policy).
 
-## Open Data and Other Open Government Information
+# [Projects >>](./projects)
 
-* [Open Government and Open Data Directive](http://dc.gov/node/871012) - provides a comprehensive plan for the District government to enhance transparency, accountability and collaboration with District residents and the public
-* [Open Data](http://dc.gov/node/158852) - provides hundreds of data feeds on District government information
-* [DC Regulations and DC Register](http://dc.gov/node/148382) - provides access to District regulations, the District Register and Mayoral Orders
-* [Contracts and Procurement](http://contracts.dc.gov/) - provides contracting information from a variety of agency sources
-* [Budget and Revenue](http://cfo.dc.gov/page/budget) - provides comprehensive information about the District's budget
-* [Public Employee Salary Information](http://dchr.dc.gov/public-employee-salary-information) - provides salary information about District employees
-* [Mobile Apps](http://dc.gov/node/793282) - allows District agencies to connect with residents, share information and provide another channel for customer service
+DC Government agencies are working on a variety of projects as part of the [Open Source Pilot](). These include websites, policy guides, documentation standards, command line tools, and more.
 
-## Open Government Agency Records
+All are free to use and re-use. In fact, we hope you do!
 
-Agencies are required to ensure that the following records are made available to the public. Each agency’s required records are found on its Open Government and FOIA page. For some agencies, these records do not exist and are not listed. In cases where records exist but are not yet available online, agencies are working to provide them as soon as possible. If you have any questions, please contact the agency's [FOIA officer](http://dc.gov/page/agency-open-government-and-foia-contact-information).
+# [Getting Information >>](./information)
 
-1. [Public Employee Salary Information](http://dchr.dc.gov/public-employee-salary-information);
-2. Administrative staff manuals and instructions;
-3. Final opinions made in the adjudication of cases;
-4. Statements of policy;
-5. Other agency determinations of the rights of the public;
-6. [Information dealing with the receipt or expenditure of public funds](http://ocp.dc.gov/publication/report-contracting-activity);
-7. [Budget information](http://cfo.dc.gov/page/budget);
-8. Minutes of public meetings;
-9. Absentee owners addresses, and building permits;
-10. Frequently requested public records
-11. [District-wide and agency FOIA reports](http://os.dc.gov/page/annual-reports);
-12. Organizational chart;
-13. A mechanism for the public to submit feedback on the agency’s performance or other agency actions.
+Much of DC Government's data and information is already available online. From regulations, to geographic information, to budget data, and more. Find out about these resources on the [Information page](./information).
 
-Each agency’s required records are found on its [Open Government and FOIA page](http://dc.gov/page/freedom-information-act-foia-contact-information).
+# [Reaching Out >>](./contact)
 
-You may submit or review comments received on the District of Columbia's Transparency and Open Government Policy on our [comments page](http://opengovinitiative.dc.gov/).
-View additional [Open Government information](http://opengovinitiative.dc.gov/).
+If you are looking for information that is not yet public, you can submit a FOIA request (Freedom of Information Act).
 
-## Ask the Chief Data Officer
-
-Do you have questions or suggestions regarding the District’s open government or open data initiative? [Contact our Chief Data Officer.](http://app.dc.gov/apps/about.asp?page=atd&type=dsf&agency_id=1202)
-
-## Freedom of Information Act
-
-Find each agency’s frequently requested public records that have been released under FOIA in the [FOIA Reading Room](https://foia-dc.gov/ERR/palEleDTypes.aspx).
-
-If you cannot find the information you are looking for here or elsewhere on DC.Gov, you can submit a [FOIA Request online](https://foia-dc.gov/palMain.aspx).
-
-To understand the process before making a request, please see [foia.dc.gov](https://foia-dc.gov/palMain.aspx).
-
-## Related Content
-* [District of Columbia Official Code](http://www.lexisnexis.com/hottopics/dccode/)
-* [Agency Open Government and FOIA Contact Information](http://dc.gov/page/agency-open-government-and-foia-contact-information)
+You can also contact us with questions or suggestions regarding the District's open government, data, and code.

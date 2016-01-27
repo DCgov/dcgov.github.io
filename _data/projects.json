@@ -1,0 +1,170 @@
+[
+    {
+        "status": "Production", 
+        "partners": [
+            {
+                "name": "OCTO Innovation Program", 
+                "email": "open@dc.gov"
+            }
+        ], 
+        "github": {
+            "languages": {
+                "Shell": 333, 
+                "HTML": 4713, 
+                "Ruby": 3166, 
+                "JavaScript": 1404, 
+                "CSS": 12367
+            }, 
+            "teams": [
+                "DC Digital Service"
+            ], 
+            "activity": []
+        }, 
+        "name": "guides-template", 
+        "license": "https://raw.githubusercontent.com/DCgov/guides-template/gh-pages/LICENSE.md", 
+        "homepage": "http://open.dc.gov/guides-template/", 
+        "links": [], 
+        "data": [], 
+        "repository": "https://github.com/DCgov/guides-template", 
+        "contact": {
+            "name": "Emanuel Feld", 
+            "email": "open@dc.gov"
+        }, 
+        "keywords": [
+            "guide", 
+            "instructions"
+        ], 
+        "geography": [], 
+        "type": "web app", 
+        "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schema.json", 
+        "description": "A template and set of instructions for setting up DCgov guide sites."
+    }, 
+    {
+        "status": "Beta", 
+        "partners": [
+            {
+                "name": "OCTO Innovation Program", 
+                "email": "open@dc.gov"
+            }
+        ], 
+        "github": {
+            "languages": {
+                "Shell": 83, 
+                "HTML": 4742, 
+                "Ruby": 3166, 
+                "JavaScript": 1404, 
+                "CSS": 12124
+            }, 
+            "teams": [
+                "DC Digital Service"
+            ], 
+            "activity": []
+        }, 
+        "name": "open source guidelines", 
+        "license": "CC0-1.0", 
+        "homepage": "http://open.dc.gov/open-source-guidelines/", 
+        "links": [], 
+        "data": [], 
+        "repository": "https://github.com/dcgov/open-source-guidelines", 
+        "contact": {
+            "name": "Emanuel Feld", 
+            "email": "opensource@dc.gov"
+        }, 
+        "keywords": [
+            "open source", 
+            "guide"
+        ], 
+        "geography": [
+            "DC"
+        ], 
+        "type": "guide", 
+        "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schema.json", 
+        "description": "A how-to guide for agencies that have joined or would like to join DC Government's Open Source Pilot program."
+    }, 
+    {
+        "status": "Beta", 
+        "partners": [
+            {
+                "name": "OCTO Innovation Program", 
+                "email": "open@dc.gov"
+            }
+        ], 
+        "github": {
+            "languages": {
+                "Python": 26641, 
+                "Shell": 1745, 
+                "HTML": 5472
+            }, 
+            "teams": [
+                "DC Digital Service"
+            ], 
+            "activity": []
+        }, 
+        "name": "poirot", 
+        "license": "https://raw.githubusercontent.com/DCgov/poirot/master/LICENSE.md", 
+        "homepage": "https://pypi.python.org/pypi/poirot/", 
+        "links": [], 
+        "data": [], 
+        "repository": "https://github.com/DCgov/poirot", 
+        "contact": {
+            "name": "Emanuel Feld", 
+            "email": "open@dc.gov"
+        }, 
+        "keywords": [
+            "git", 
+            "revision", 
+            "search", 
+            "private", 
+            "security", 
+            "grep"
+        ], 
+        "geography": [], 
+        "type": "command line tool", 
+        "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schema.json", 
+        "description": "A command-line tool to find text patterns in a Git repository's revision history."
+    }, 
+    {
+        "status": "Beta", 
+        "license": "https://raw.githubusercontent.com/DCgov/civic.json/master/LICENSE.md", 
+        "github": {
+            "languages": {}, 
+            "teams": [
+                "DC Digital Service"
+            ], 
+            "activity": []
+        }, 
+        "name": "civic.json (extended)", 
+        "repository": "https://github.com/DCgov/civic.json", 
+        "partners": [
+            {
+                "name": "OCTO Innovation Program", 
+                "email": "open@dc.gov"
+            }, 
+            {
+                "url": "https://twitter.com/CodeforDC", 
+                "name": "Code for DC"
+            }
+        ], 
+        "data": [], 
+        "links": [], 
+        "contact": {
+            "name": "Emanuel Feld", 
+            "email": "open@dc.gov"
+        }, 
+        "keywords": [
+            "documentation", 
+            "schema", 
+            "standard", 
+            "civic", 
+            "government", 
+            "OCTO", 
+            "DC", 
+            "Code for DC", 
+            "Washington"
+        ], 
+        "geography": [], 
+        "homepage": "http://open.dc.gov/civic.json", 
+        "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schema.json", 
+        "description": "An extension to civic.json to better support collaboration across government agencies and municipalities, and with the public."
+    }
+]

@@ -77,6 +77,69 @@ h4 {
 }
 
 /*
+Dashboard
+==================================
+*/
+
+.project {
+    padding: 0.5em 0 2.5em 0;
+    overflow:hidden;
+    border-top: 0.1em solid black;
+}
+
+.project_title {
+    font-weight: bold;
+}
+
+.project_header {
+    font-size: 1.4em;
+    padding: 10px 0;
+    overflow: auto;
+}
+
+.left {
+    display: block;
+    float: left;
+    width: 55%;
+    padding-right: 2%;
+}
+
+.right {
+    display: block;
+    float: left;
+    width: 45%;
+    padding-left: 2%;
+}
+
+.project_header .right {
+    text-align: right;
+}
+
+.status {
+    padding: 0.2em 0.4em;
+    color: white;
+    border-radius: 5px;
+}
+
+.status.ideation {
+    background-color: #BF7400;
+}
+
+.status.alpha {
+    background-color: #BF0000;
+}
+.status.beta {
+    background-color: #0A407D;
+}
+.status.production {
+    background-color: #009900;
+}
+
+#dashboard_intro {
+    padding-bottom: 2em;
+}
+
+/*
 Glossary
 ==================================
 */
@@ -310,6 +373,31 @@ header {
     padding: 2em 0;
 }
 
+#navbar_wrap {
+    padding: 0.3em 0;
+    background: {{ site.brand_color }};
+}
+
+#navbar {
+    max-width: 800px;
+    max-width: 50rem;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#navbar a {
+    font-size: 0.875em;
+    color: #fff;
+    text-decoration: none;
+    margin-right: 1em;
+    border: none;
+}
+
+#navbar a:hover, #navbar a:focus {
+    text-decoration: underline;
+}
+
 /*
 Footer
 ==================================
@@ -335,7 +423,7 @@ footer .wrap {
   padding-top: 2em;
   padding-bottom: 2em;
 }
-
+    
 
 /*
 Helpers
