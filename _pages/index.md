@@ -30,4 +30,4 @@ Much of DC Government's data and information is already available online. From r
 
 If you are looking for information that is not yet public, you can submit a FOIA request (Freedom of Information Act).
 
-You can also contact us with questions or suggestions regarding the District's open government, data, and code.
+You can also reach out to us with questions or suggestions regarding the District's open government, data, and code.

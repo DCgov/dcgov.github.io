@@ -5,7 +5,7 @@ title: Getting Government Information
 
 ## Open Data and Other Open Government Information
 
-* [Open Data](http://dc.gov/node/158852) - provides hundreds of data feeds on District government information
+* [Open Data](http://dc.gov/node/158852) - provides hundreds of data feeds of District government information
 * [DC Regulations and DC Register](http://dc.gov/node/148382) - provides access to District regulations, the District Register and Mayoral Orders
 * [Contracts and Procurement](http://contracts.dc.gov/) - provides contracting information from a variety of agency sources
 * [Budget and Revenue](http://cfo.dc.gov/page/budget) - provides comprehensive information about the District's budget
@@ -31,9 +31,6 @@ Agencies are required to ensure that the following records are made available to
 13. A mechanism for the public to submit feedback on the agency’s performance or other agency actions.
 
 Each agency’s required records are found on its [Open Government and FOIA page](http://dc.gov/page/freedom-information-act-foia-contact-information).
-
-You may submit or review comments received on the District of Columbia's Transparency and Open Government Policy on our [comments page](http://opengovinitiative.dc.gov/).
-View additional [Open Government information](http://opengovinitiative.dc.gov/).
 
 ## Agency Performance Dashboards
 
