@@ -13,4 +13,4 @@ The District is developing a new [open data policy](https://drafts.dc.gov/docs/d
 
 ## Open Government and Open Data Directive
 
-The [Open Government and Open Data Directive](http://dc.gov/node/871012) provides a comprehensive plan for the District government to enhance transparency, accountability, and collaboration with District residents and the public.
+The existing [Open Government and Open Data Directive](http://dc.gov/node/871012) provides a comprehensive plan for the District government to enhance transparency, accountability, and collaboration with District residents and the public.

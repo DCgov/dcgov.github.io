@@ -76,6 +76,21 @@ h4 {
     margin-top: .727272727em; /* 16/22 */
 }
 
+
+.agency-records.container {
+    border: 2px solid {{ site.brand_color }};
+    padding: 1em;
+}
+
+.clickable:hover {
+    cursor: pointer;
+}
+
+.agency-records.hide {
+    margin: 0;
+    display: none;
+}
+
 /*
 Dashboard
 ==================================

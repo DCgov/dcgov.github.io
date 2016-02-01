@@ -18,7 +18,7 @@ Members of the public can comment on it and propose edits through [drafts.dc.gov
 
 # [Projects >>](/projects)
 
-DC Government agencies are working on a variety of projects as part of the [Open Source Pilot](). These include websites, policy guides, documentation standards, command line tools, and more.
+DC Government agencies are working on a variety of projects as part of the [Open Source Pilot](/open-source-guidelines). These include websites, policy guides, documentation standards, command line tools, and more.
 
 All are free to use and re-use. In fact, we hope you do!
 
@@ -26,8 +26,8 @@ All are free to use and re-use. In fact, we hope you do!
 
 Much of DC Government's data and information is already available online. From regulations, to geographic information, to budget data, and more. Find out about these resources on the [Information page](/information).
 
-# [Reaching Out >>](/contact)
-
 If you are looking for information that is not yet public, you can submit a FOIA request (Freedom of Information Act).
+
+# [Reaching Out >>](/contact)
 
 You can also reach out to us with questions or suggestions regarding the District's open government, data, and code.
