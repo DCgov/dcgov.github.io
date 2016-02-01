@@ -22,6 +22,10 @@
         }, 
         "name": "guides-template", 
         "license": "https://raw.githubusercontent.com/DCgov/guides-template/gh-pages/LICENSE.md", 
+        "tags": [
+            "guide", 
+            "instructions"
+        ], 
         "homepage": "http://open.dc.gov/guides-template/", 
         "links": [], 
         "data": [], 
@@ -30,10 +34,6 @@
             "name": "Emanuel Feld", 
             "email": "open@dc.gov"
         }, 
-        "keywords": [
-            "guide", 
-            "instructions"
-        ], 
         "geography": [], 
         "type": "web app", 
         "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schema.json", 
@@ -62,6 +62,10 @@
         }, 
         "name": "open source guidelines", 
         "license": "CC0-1.0", 
+        "tags": [
+            "open source", 
+            "guide"
+        ], 
         "homepage": "http://open.dc.gov/open-source-guidelines/", 
         "links": [], 
         "data": [], 
@@ -70,10 +74,6 @@
             "name": "Emanuel Feld", 
             "email": "opensource@dc.gov"
         }, 
-        "keywords": [
-            "open source", 
-            "guide"
-        ], 
         "geography": [
             "DC"
         ], 
@@ -102,6 +102,14 @@
         }, 
         "name": "poirot", 
         "license": "https://raw.githubusercontent.com/DCgov/poirot/master/LICENSE.md", 
+        "tags": [
+            "git", 
+            "revision", 
+            "search", 
+            "private", 
+            "security", 
+            "grep"
+        ], 
         "homepage": "https://pypi.python.org/pypi/poirot/", 
         "links": [], 
         "data": [], 
@@ -110,14 +118,6 @@
             "name": "Emanuel Feld", 
             "email": "open@dc.gov"
         }, 
-        "keywords": [
-            "git", 
-            "revision", 
-            "search", 
-            "private", 
-            "security", 
-            "grep"
-        ], 
         "geography": [], 
         "type": "command line tool", 
         "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schema.json", 
@@ -131,7 +131,60 @@
             "teams": [
                 "DC Digital Service"
             ], 
-            "activity": []
+            "activity": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                5, 
+                1, 
+                0, 
+                13, 
+                9, 
+                7
+            ]
         }, 
         "name": "civic.json (extended)", 
         "repository": "https://github.com/DCgov/civic.json", 
@@ -146,12 +199,7 @@
             }
         ], 
         "data": [], 
-        "links": [], 
-        "contact": {
-            "name": "Emanuel Feld", 
-            "email": "open@dc.gov"
-        }, 
-        "keywords": [
+        "tags": [
             "documentation", 
             "schema", 
             "standard", 
@@ -162,9 +210,51 @@
             "Code for DC", 
             "Washington"
         ], 
+        "links": [], 
+        "contact": {
+            "name": "Emanuel Feld", 
+            "email": "open@dc.gov"
+        }, 
         "geography": [], 
         "homepage": "http://open.dc.gov/civic.json", 
-        "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schema.json", 
+        "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json", 
         "description": "An extension to civic.json to better support collaboration across government agencies and municipalities, and with the public."
+    }, 
+    {
+        "status": "Beta", 
+        "license": "CC0-1.0", 
+        "github": {
+            "languages": {
+                "Python": 6799, 
+                "Makefile": 855
+            }, 
+            "teams": [
+                "DC Digital Service"
+            ], 
+            "activity": []
+        }, 
+        "name": "civic.json-cli", 
+        "repository": "https://github.com/DCgov/civic.json-cli", 
+        "partners": [
+            {
+                "name": "OCTO Innovation Program", 
+                "email": "open@dc.gov"
+            }
+        ], 
+        "data": [], 
+        "tags": [
+            "civic", 
+            "civic.json"
+        ], 
+        "links": [], 
+        "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schema.json", 
+        "contact": {
+            "name": "Emanuel Feld", 
+            "email": "open@dc.gov"
+        }, 
+        "geography": [], 
+        "homepage": "http://open.dc.gov/civic.json/", 
+        "thumbnail": "", 
+        "description": "Command line tools to make using civic.json easy."
     }
 ]
