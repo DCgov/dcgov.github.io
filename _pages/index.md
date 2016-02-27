@@ -16,12 +16,6 @@ Building off of the 2014 Open Government and Open Data Directive, DC Government 
 
 Members of the public can comment on it and propose edits through [drafts.dc.gov](https://drafts.dc.gov/docs/draft-open-data-policy), by email, Twitter, and mail until **February 15, 2015**. Learn more by visiting the [Policy page](/policy).
 
-# [Projects >>](/projects)
-
-DC Government agencies are working on a variety of projects as part of the [Open Source Pilot](/open-source-guidelines). These include websites, policy guides, documentation standards, command line tools, and more.
-
-All are free to use and re-use. In fact, we hope you do!
-
 # [Getting Information >>](/information)
 
 Much of DC Government's data and information is already available online. From regulations, to geographic information, to budget data, and more. Find out about these resources on the [Information page](/information).
