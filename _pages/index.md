@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /
-title: Open Government in DC
 ---
 
 The District is a strong advocate for open government and provides a large quantity of government information available to the public.
