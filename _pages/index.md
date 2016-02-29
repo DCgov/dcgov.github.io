@@ -14,7 +14,7 @@ On this site you can learn more about DC's Open Government policies and open sou
 
 Building off of the 2014 Open Government and Open Data Directive, DC Government is working on a new [Open Data Policy](https://drafts.dc.gov/docs/draft-open-data-policy).
 
-Members of the public can comment on it and propose edits through [drafts.dc.gov](https://drafts.dc.gov/docs/draft-open-data-policy), by email, Twitter, and mail until **February 15, 2015**. Learn more by visiting the [Policy page](/policy).
+It was publicly posted to [drafts.dc.gov](https://drafts.dc.gov/docs/draft-open-data-policy), where members of the public could comment on it and propose edits. All such annotations remain visible online. The policy is being reviewed for a formal public comment period. Learn more by visiting the [Policy page](/policy).
 
 # [Getting Information >>](/information)
 
