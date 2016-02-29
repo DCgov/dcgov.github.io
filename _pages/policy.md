@@ -5,7 +5,9 @@ title: Policy
 
 ## Draft Open Data Policy
 
-The District is developing a new [open data policy](https://drafts.dc.gov/docs/draft-open-data-policy). You can find the proposed policy on [drafts.dc.gov](https://drafts.dc.gov/docs/draft-open-data-policy), where it was open for public comment until February 15, 2015. We are currently reviewing responses and will revise the draft before re-opening formal comments. In the meantime, feedback remains welcome by:
+The District is developing a new [open data policy](https://drafts.dc.gov/docs/draft-open-data-policy). It was publicly posted to [drafts.dc.gov](https://drafts.dc.gov/docs/draft-open-data-policy), where members of the public could comment on it and propose edits. All such annotations remain visible online.
+
+We are currently reviewing responses and will revise the draft before opening it for formal comments. In the meantime, feedback remains welcome by:
 
 * Mail c/o Open Data Policy, 200 I Street SE, Suite 500, Washington, DC 20003
 * Email to [open@dc.gov](mailto:open@dc.gov)
