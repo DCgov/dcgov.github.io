@@ -23,4 +23,4 @@ If you are looking for information that is not yet public, you can submit a FOIA
 
 # [Reaching Out >>](/contact)
 
-You can also reach out to us with questions or suggestions regarding the District's open government, data, and code.
+You can also reach out with questions or suggestions regarding the District's open government, data, and code. Find out how on the [Contact page](/contact).
