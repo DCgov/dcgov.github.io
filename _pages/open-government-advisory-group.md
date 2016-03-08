@@ -11,7 +11,7 @@ None
 
 ## Meeting Archives
 
-*Note*: All meetings will be have a live stream and archive linked on this page.
+*Note*: All meetings will have a live stream and archive linked on this page.
 
 ## Public Members
 
