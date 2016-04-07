@@ -14,7 +14,7 @@ name: DC Open Government
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: OCTO Innovation Program
+  name: OCTO
   url: mailto:open@dc.gov
 
 # When using this template with a project (repository) page set the baseurl to '/project-name'
